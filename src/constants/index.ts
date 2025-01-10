@@ -179,9 +179,7 @@ const testimonials: TTestimonial[] = [
 const projects: TProject[] = [
   {
     name: "LLM DocDigest",
-    description:
-      ["Web application using Streamlit for uploading and processing text files (docx, pdf, txt) " ,
-        "",],
+    description: "Web application using Streamlit for uploading and processing text files (docx, pdf, txt) ",
     tags: [
       {
         name: "OpenAI",
